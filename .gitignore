@@ -1,5 +1,6 @@
 *.exe
 *.log
+*.pdf
 env
 wenv
 lenv
