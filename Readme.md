@@ -54,4 +54,5 @@ My most useful set of links across the www
   * Worldbank
   * Quandl
 * Photography
+  * Instagram Saved: <https://www.instagram.com/pradyumnacster/saved/>
 * News Portals
